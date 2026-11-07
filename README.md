@@ -1,4 +1,4 @@
-# EclipseAndMoonAnimatorFREE
+# !READ THIS!
 +How to Install a Plugin
 Go to Plugins (top-left corner, next to View) and click Plugins Folder.
 Drag the .rbxmx file into the Plugins Folder (or simply copy and paste it).
